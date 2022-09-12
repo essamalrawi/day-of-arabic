@@ -6,7 +6,7 @@
 ---
 Challenge completed
 
-![45%](https://progress-bar.dev/45/?title=Done)
+![0%(https://progress-bar.dev/0?title=Done)
 
 
 ### `Challenge days`
